@@ -30,6 +30,10 @@ header img {
     width: 25.06rem;
 }
 
+main {
+    padding: 0 2rem;
+}
+
 h1 {
     font-family: "Poppins", sans-serif;
     font-size: 1.5rem;
