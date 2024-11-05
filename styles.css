@@ -54,11 +54,11 @@ hr {
 
 footer {
     display: flex;
-    justify-content: center;
 }
 
 footer img {
     border-radius: 99rem;
     border: 0.5rem solid #F2F5F9;
+    width: 3.5rem;
 }
 
