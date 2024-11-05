@@ -52,3 +52,7 @@ hr {
     border: 1px solid #F2F5F9;
 }
 
+footer {
+    display: flex;
+}
+
