@@ -11,4 +11,5 @@ div {
     background-color: #FFFFFF;
     max-width: 25rem;
     margin: 15rem auto;
+    border-radius: 1rem;
 }
