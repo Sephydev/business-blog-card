@@ -9,4 +9,6 @@ body {
 
 div {
     background-color: #FFFFFF;
+    max-width: 25rem;
+    margin: 0 auto;
 }
