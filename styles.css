@@ -16,7 +16,6 @@ body {
     max-width: 25rem;
     margin: 15rem auto;
     border-radius: 1rem;
-    padding-bottom: 5rem;
 }
 
 header {
@@ -55,7 +54,8 @@ hr {
 footer {
     display: flex;
     align-items: center;
-    padding-top: 1rem;
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
 }
 
 footer img {
