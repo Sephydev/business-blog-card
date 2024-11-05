@@ -14,7 +14,16 @@ div {
     border-radius: 1rem;
 }
 
-header img {
-    width: 100%;
+header {
+    display: flex;
+    background-image: url("./assets/hero-image.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 280px;
+    align-items: end;
     border-radius: 1rem 1rem 0 0;
+}
+
+header img {
+    width: 25.06rem;
 }
