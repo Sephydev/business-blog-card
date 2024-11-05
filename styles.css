@@ -73,3 +73,9 @@ footer img {
 .role {
     color: #4A5567;
 }
+
+@media screen and (min-width: 1024px) {
+    main{
+        padding: 0 1.5rem;
+    }
+}
