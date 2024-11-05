@@ -57,3 +57,7 @@ footer {
     justify-content: center;
 }
 
+footer img {
+    border-radius: 99rem;
+}
+
