@@ -41,3 +41,7 @@ h1 {
     font-size: 1.5rem;
     font-weight: 500;
 }
+
+main p {
+    color: #4A5567;
+}
