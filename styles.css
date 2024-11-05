@@ -55,11 +55,14 @@ hr {
 footer {
     display: flex;
     align-items: center;
+    padding-top: 1rem;
 }
 
 footer img {
     border-radius: 99rem;
     border: 0.5rem solid #F2F5F9;
     width: 3.5rem;
+    margin-left: 2rem;
+    margin-right: 1rem;
 }
 
